@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.kineticskunk.auto</groupId>
+  <artifactId>desiredcapabilities</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20170614095552</lastUpdated>
+  </versioning>
+</metadata>
